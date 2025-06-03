@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://krislynx.com/sitemap.xml

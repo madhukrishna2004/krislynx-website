@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://krislynx.com/</loc>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://krislynx.com/about</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://krislynx.com/services</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://krislynx.com/products</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://krislynx.com/careers</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://krislynx.com/privacy-policy</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://krislynx.com/terms-of-service</loc>
+    <priority>0.5</priority>
+  </url>
+  <!-- Add other URLs accordingly -->
+</urlset>
