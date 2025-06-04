@@ -11,7 +11,7 @@ const PrivacyPolicy = () => {
 
         {/* Intro */}
         <p className="text-blue-200 mb-6">
-          KrisLynx LLP (“we,” “our,” or “us”) is committed to protecting your privacy. This policy explains how we collect, use, share, and protect your personal information when you use our websites, apps, and AI-powered platforms such as FearLink, TradeSphere Global, SmartSchool Suite, and SelfMate.
+           KrisLynx (“we,” “our,” or “us”) is committed to protecting your privacy. This policy explains how we collect, use, share, and protect your personal information when you use our websites, apps, and AI-powered platforms such as FearLink, TradeSphere Global, SmartSchool Suite, and SelfMate.
         </p>
 
         {/* Sections */}
@@ -115,7 +115,7 @@ const PrivacyPolicy = () => {
         </div>
 
         <div className="mt-16 text-sm text-center text-blue-400">
-          KrisLynx LLP © {new Date().getFullYear()} — All Rights Reserved
+           KrisLynx © {new Date().getFullYear()} — All Rights Reserved
         </div>
       </div>
     </section>

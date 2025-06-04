@@ -8,7 +8,7 @@ const Footer = () => {
 
         {/* Company Intro */}
         <div>
-          <h3 className="text-lg font-semibold mb-3 text-blue-100">KrisLynx LLP</h3>
+          <h3 className="text-lg font-semibold mb-3 text-blue-100"> KrisLynx</h3>
           <p className="text-sm text-blue-300">
             Igniting Tomorrow’s Solutions — your AI/IT innovation partner. 
             We engineer meaningful solutions powered by intelligence, insight & integrity.
@@ -97,7 +97,7 @@ const Footer = () => {
       {/* Bottom Bar */}
       <div className="mt-10 border-t border-blue-700 pt-4 px-6 text-center text-xs text-blue-400 flex flex-col md:flex-row justify-between items-center gap-2">
         <div>
-          © {new Date().getFullYear()} KrisLynx LLP. All rights reserved.
+          © {new Date().getFullYear()}  KrisLynx. All rights reserved.
         </div>
         <div className="flex gap-4">
           <span>SSL Secure</span>

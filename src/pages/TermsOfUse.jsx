@@ -32,7 +32,7 @@ const TermsOfUse = () => {
           <div>
             <h2 className="text-white text-xl font-semibold mb-2">3. Intellectual Property</h2>
             <p>
-              All content, logos, trademarks, code, and designs are the exclusive intellectual property of KrisLynx LLP. You may not copy, reuse, or distribute without written permission.
+              All content, logos, trademarks, code, and designs are the exclusive intellectual property of  KrisLynx. You may not copy, reuse, or distribute without written permission.
             </p>
           </div>
 
@@ -56,7 +56,7 @@ const TermsOfUse = () => {
           <div>
             <h2 className="text-white text-xl font-semibold mb-2">6. Limitation of Liability</h2>
             <p>
-              KrisLynx LLP shall not be liable for any indirect, incidental, or consequential damages arising from your use or inability to use our platforms, including any loss of data, income, or reputation.
+               KrisLynx shall not be liable for any indirect, incidental, or consequential damages arising from your use or inability to use our platforms, including any loss of data, income, or reputation.
             </p>
           </div>
 
@@ -98,7 +98,7 @@ const TermsOfUse = () => {
         </div>
 
         <div className="mt-16 text-sm text-center text-blue-400">
-          KrisLynx LLP © {new Date().getFullYear()} — All Rights Reserved
+           KrisLynx © {new Date().getFullYear()} — All Rights Reserved
         </div>
       </div>
     </section>

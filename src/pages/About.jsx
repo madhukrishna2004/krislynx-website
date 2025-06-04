@@ -235,12 +235,12 @@ const About = () => {
       </p>
     </div>
 
-    {/* 2025 – FearLink & KrisLynx LLP */}
+    {/* 2025 – FearLink &  KrisLynx */}
     <div className="relative">
       <div className="absolute -left-5 top-2 w-4 h-4 bg-indigo-500 rounded-full shadow-md shadow-indigo-300/50"></div>
-      <h3 className="text-xl font-semibold">2025 – FearLink & KrisLynx LLP</h3>
+      <h3 className="text-xl font-semibold">2025 – FearLink &  KrisLynx</h3>
       <p className="mt-2 text-gray-300">
-        <span className="text-indigo-300 font-medium">FearLink</span>, the AI that detects real fear via physiological signals, is deployed into wearable prototypes. RKLS also launches its dedicated tech company <span className="text-indigo-400 font-medium">KrisLynx LLP</span> with the tagline <em>"Igniting Tomorrow’s Solutions."</em>
+        <span className="text-indigo-300 font-medium">FearLink</span>, the AI that detects real fear via physiological signals, is deployed into wearable prototypes. RKLS also launches its dedicated tech company <span className="text-indigo-400 font-medium"> KrisLynx</span> with the tagline <em>"Igniting Tomorrow’s Solutions."</em>
       </p>
     </div>
 

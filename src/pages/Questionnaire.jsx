@@ -84,7 +84,7 @@ const surveyJson = {
     },
   ],
   completedHtml:
-    "<h3 style='color:#67e8f9'>Thank you for your interest in KrisLynx LLP. We'll be in touch soon!</h3>",
+    "<h3 style='color:#67e8f9'>Thank you for your interest in  KrisLynx. We'll be in touch soon!</h3>",
 };
 
 const SmartQuestionnaire = () => {

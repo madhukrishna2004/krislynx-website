@@ -28,7 +28,7 @@ const Home = () => {
       Igniting Tomorrow’s Solutions with AI, Innovation & Trust
     </h1>
     <p className="text-xl md:text-2xl text-white/80 max-w-3xl mx-auto mb-10 tracking-wide">
-      KrisLynx LLP combines next-gen product innovation with service expertise to transform industries.
+       KrisLynx combines next-gen product innovation with service expertise to transform industries.
     </p>
 
     <Link
@@ -68,7 +68,7 @@ const Home = () => {
       <div className="bg-blue-900/20 rounded-xl p-8 shadow-inner border border-blue-800 hover:shadow-blue-500 transition">
         <h3 className="text-xl font-semibold text-blue-200 mb-4">Rooted in Innovation</h3>
         <p className="leading-relaxed tracking-wide">
-          <strong>KrisLynx LLP</strong> is a next-generation tech powerhouse under RKLS, leading innovation in both <strong>AI-based products</strong> and <strong>service-oriented platforms</strong>.
+          <strong> KrisLynx</strong> is a next-generation tech powerhouse under RKLS, leading innovation in both <strong>AI-based products</strong> and <strong>service-oriented platforms</strong>.
         </p>
       </div>
 
