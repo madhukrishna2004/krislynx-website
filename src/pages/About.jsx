@@ -2,6 +2,7 @@ import React from "react";
 
 const About = () => {
   return (
+    
     <div className="bg-black text-blue-300 py-20 px-6">
       <div className="max-w-6xl mx-auto space-y-20">
         {/* Header */}
