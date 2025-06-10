@@ -1,4 +1,18 @@
-User-agent: *
-Disallow:
+# -----------------------------------------------
+# KrisLynx LLP Robots.txt — SEO-Optimized vA++
+# Powered by RKLS Groups | www.krislynx.com
+# -----------------------------------------------
 
-Sitemap: https://krislynx.com/sitemap.xml
+User-agent: *
+Allow: /
+
+# Block admin or dev paths if any (add when needed)
+# Disallow: /admin/
+# Disallow: /private/
+# Disallow: /staging/
+
+# Sitemap Index (auto-discovery for all search engines)
+Sitemap: https://www.krislynx.com/sitemap.xml
+
+# Friendly hint for bots
+Host: https://www.krislynx.com
