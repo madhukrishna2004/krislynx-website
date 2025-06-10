@@ -256,6 +256,7 @@ const About = () => {
     </div>
 
   </div>
+  
 </section>
 
  <div className="bg-blue-900/20 rounded-xl p-6 md:p-10 shadow-lg shadow-cyan-700/20 mt-20 text-center">
@@ -275,6 +276,73 @@ const About = () => {
     Stay tuned to our <a href="https://www.linkedin.com/company/krislynx" target="_blank" rel="noopener noreferrer" className="underline text-cyan-300">LinkedIn</a>, <a href="https://www.instagram.com/rkls.groups" target="_blank" rel="noopener noreferrer" className="underline text-cyan-300">Instagram</a>, and WhatsApp broadcast channels for the latest updates on openings and company news.
   </p>
   
+{/* Founder Spotlight - SEO Optimized */}
+<div className="bg-blue-900/20 rounded-xl p-6 md:p-10 shadow-lg shadow-cyan-700/20 mt-20">
+  <details className="group">
+    <summary className="flex justify-between items-center cursor-pointer list-none">
+      <h2 className="text-3xl md:text-4xl font-bold text-cyan-300">
+         Founder & CEO: Madhu Krishna K
+      </h2>
+      <span className="transition-transform group-open:rotate-180">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          <path d="m6 9 6 6 6-6" />
+        </svg>
+      </span>
+    </summary>
+    <div className="mt-6 flex flex-col md:flex-row gap-8 items-center">
+      {/* Founder Image (SEO Optimized) */}
+      <div className="w-full md:w-1/3 flex justify-center">
+        <img 
+          src="/team/krishna.jpg" 
+          alt="Madhu Krishna K - Founder & CEO of KrisLynx LLP" 
+          className="rounded-xl shadow-lg shadow-cyan-500/30 w-full max-w-xs hover:scale-105 transition-transform"
+          loading="lazy"
+        />
+      </div>
+      {/* Founder Bio */}
+      <div className="w-full md:w-2/3 space-y-4">
+        <h3 className="text-2xl font-bold text-white">
+          The Visionary Behind KrisLynx
+        </h3>
+        <p className="text-blue-200 leading-relaxed">
+          <strong className="text-cyan-300">Madhu Krishna</strong> is the founder and driving force behind KrisLynx. With a background in AI, emotional computing, and ethical tech, he launched KrisLynx in 2023 to bridge the gap between cutting-edge innovation and human emotion. His philosophy—<em>"If tech can’t feel, it can’t truly serve"</em>—shapes every product the company builds.
+        </p>
+        <p className="text-blue-200 leading-relaxed">
+          Before KrisLynx, Madhu led R&D projects in AI-driven behavioral analysis and edtech systems. Today, he oversees the company’s mission to create <strong className="text-white">emotionally intelligent technology</strong>, from FearLink’s fear-detection AI to TradeSphere’s global trade tools.
+        </p>
+        <div className="pt-2">
+          <a 
+            href="/contact" 
+            className="inline-block bg-cyan-400 hover:bg-cyan-300 text-black font-medium px-6 py-2 rounded-lg transition"
+          >
+            Connect with Madhu
+          </a>
+        </div>
+      </div>
+    </div>
+  </details>
+</div>
+
+{/* Structured Data for Google (Add to Page Script) */}
+<script type="application/ld+json">
+  {JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Madhu Krishna",
+    "jobTitle": "Founder & CEO",
+    "url": "https://krislynx.com",
+    "sameAs": [
+      "https://www.linkedin.com/in/madhu-krishna-b143bb231/",
+      
+    ],
+    "worksFor": {
+      "@type": "Organization",
+      "name": "KrisLynx LLP"
+    },
+    "description": "Madhu Krishna is the founder and CEO of KrisLynx LLP, a tech company pioneering emotionally intelligent AI solutions like FearLink and TradeSphere Global.",
+    "image": "/team/krishna.jpg"
+  })}
+</script>  
 </div>
 
         {/* Call to Action */}
