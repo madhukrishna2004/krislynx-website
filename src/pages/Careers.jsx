@@ -50,7 +50,7 @@ const Careers = () => {
         <div>
           <img
             src="https://images.unsplash.com/photo-1629904853716-f0bc54eea481?auto=format&fit=crop&w=800&q=80"
-            alt="Team working"
+            alt="KrisLynx LLP Careers"
             className="rounded-xl shadow-lg shadow-cyan-700/30"
           />
         </div>
@@ -85,12 +85,12 @@ const Careers = () => {
       <div className="max-w-5xl mx-auto mb-20 text-center">
         <h2 className="text-3xl font-bold text-white mb-6">Perks & Benefits</h2>
         <div className="grid md:grid-cols-3 gap-6 text-blue-300 text-sm">
-          <div className="bg-black/30 p-6 rounded-xl">🧠 Learning budget & AI certifications</div>
-          <div className="bg-black/30 p-6 rounded-xl">🌍 Global exposure & remote opportunities</div>
-          <div className="bg-black/30 p-6 rounded-xl">🚀 Rapid career growth in fast-paced teams</div>
-          <div className="bg-black/30 p-6 rounded-xl">🌱 Mental health & wellness support</div>
-          <div className="bg-black/30 p-6 rounded-xl">🏝️ Flexible leave & hybrid work setup</div>
-          <div className="bg-black/30 p-6 rounded-xl">🤝 Direct access to founders</div>
+          <div className="bg-black/30 p-6 rounded-xl"> Learning budget & AI certifications</div>
+          <div className="bg-black/30 p-6 rounded-xl"> Global exposure & remote opportunities</div>
+          <div className="bg-black/30 p-6 rounded-xl"> Rapid career growth in fast-paced teams</div>
+          <div className="bg-black/30 p-6 rounded-xl"> Mental health & wellness support</div>
+          <div className="bg-black/30 p-6 rounded-xl"> Flexible leave & hybrid work setup</div>
+          <div className="bg-black/30 p-6 rounded-xl"> Direct access to founders</div>
         </div>
       </div>
 

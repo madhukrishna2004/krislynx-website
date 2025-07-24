@@ -20,7 +20,7 @@ const About = () => {
         {/* What We Do */}
         <div className="bg-blue-900/20 rounded-xl p-6 md:p-10 shadow-lg shadow-cyan-700/20">
           <h2 className="text-2xl md:text-3xl font-semibold text-cyan-300 mb-4">
-            🛠️ What We Do
+            What We Do
           </h2>
           <p className="text-blue-200 leading-relaxed mb-4">
             At <span className="text-white font-bold">KrisLynx</span>, we build things that <i>feel</i>. Every line of code, every design — it’s made 
@@ -40,7 +40,7 @@ const About = () => {
         {/* Modern Office */}
         <div className="bg-blue-900/20 rounded-xl p-6 md:p-10 shadow-lg shadow-cyan-700/20">
           <h2 className="text-2xl md:text-3xl font-semibold text-cyan-300 mb-4">
-            🏢 Modern Office. Human Core.
+            Modern Office. Human Core.
           </h2>
           <p className="text-blue-200 leading-relaxed">
             Our workspace isn’t about fancy furniture or cold glass walls. It’s about real people, raw thinking, and
@@ -52,7 +52,7 @@ const About = () => {
         {/* Vision */}
         <div className="bg-blue-900/20 rounded-xl p-6 md:p-10 shadow-lg shadow-cyan-700/20">
           <h2 className="text-2xl md:text-3xl font-semibold text-cyan-300 mb-4">
-            🌍 Our Vision
+            Our Vision
           </h2>
           <p className="text-blue-200 leading-relaxed">
             The world doesn’t need more apps. It needs understanding. At KrisLynx, we see a digital future 
@@ -64,7 +64,7 @@ const About = () => {
 
         {/* Core Values Section */}
 <div className="bg-blue-900/20 rounded-xl p-6 md:p-10 shadow-lg shadow-cyan-700/20 mt-20">
-  <h2 className="text-3xl md:text-4xl font-bold text-cyan-300 mb-6">💡 Our Core Values</h2>
+  <h2 className="text-3xl md:text-4xl font-bold text-cyan-300 mb-6">Our Core Values</h2>
   <ul className="list-disc list-inside text-blue-200 space-y-4 pl-4 md:pl-6">
     <li>
       <span className="text-white font-semibold">Empathy First:</span> Technology must feel before it functions. We understand human emotion before building logic.
@@ -168,9 +168,9 @@ const About = () => {
 
   {/* Optional Stats */}
   <div className="mt-10 grid grid-cols-1 md:grid-cols-3 gap-6 text-cyan-300 font-medium">
-    <div className="bg-blue-800/30 p-6 rounded-lg">🌍 3+ Countries Reached</div>
-    <div className="bg-blue-800/30 p-6 rounded-lg">🧠 10,000+ R&D Hours</div>
-    <div className="bg-blue-800/30 p-6 rounded-lg">🏢 50+ Institutions Engaged</div>
+    <div className="bg-blue-800/30 p-6 rounded-lg"> 3+ Countries Reached</div>
+    <div className="bg-blue-800/30 p-6 rounded-lg"> 10,000+ R&D Hours</div>
+    <div className="bg-blue-800/30 p-6 rounded-lg"> 50+ Institutions Engaged</div>
   </div>
 </div>
 
@@ -281,7 +281,7 @@ const About = () => {
   <details className="group">
     <summary className="flex justify-between items-center cursor-pointer list-none">
       <h2 className="text-3xl md:text-4xl font-bold text-cyan-300">
-         Founder & CEO: Madhu Krishna K
+          
       </h2>
       <span className="transition-transform group-open:rotate-180">
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">

@@ -4,32 +4,32 @@ const services = [
   {
     title: "AI Strategy Consulting",
     desc: "Navigate AI adoption with precision—set clear goals, align teams, and manage risks to drive scalable transformation.",
-    icon: "🧠",
+    icon: "",
   },
   {
     title: "Embedded & Edge AI",
     desc: "Design ultra-efficient AI systems for wearables, IoT, and offline-critical applications—built for real-time impact.",
-    icon: "📲",
+    icon: "",
   },
   {
     title: "Predictive Data Systems",
     desc: "Convert scattered data into foresight—leveraging statistical models and dashboards for strategic decisions.",
-    icon: "📊",
+    icon: "",
   },
   {
     title: "Custom AI Model Design",
     desc: "Purpose-built models, trained from scratch on your data—optimized for accuracy, performance, and context.",
-    icon: "🧬",
+    icon: "",
   },
   {
     title: "AI System Integration",
     desc: "We connect AI seamlessly into your CRM, ERP, or cloud workflows—zero disruption, all intelligence.",
-    icon: "🔗",
+    icon: "",
   },
   {
     title: "Enterprise Automation",
     desc: "Boost efficiency through intelligent automation—AI bots, RPA, and agents working together.",
-    icon: "🤖",
+    icon: "",
   },
 ];
 

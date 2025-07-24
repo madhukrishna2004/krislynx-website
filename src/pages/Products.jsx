@@ -33,16 +33,17 @@ const products = [
     img: tradesphereImg,
   },
   {
-    name: "SmartSchool Suite",
-    tagline: "Integrated AI-Powered School Management System",
+    name: " EduLynx ERP",
+    tagline: "Smart Solutions for Smart Schools",
     description:
-      "SelfMate SmartSchool Suite revolutionizes educational management by combining student, staff, and administrative tools with AI insights for smarter operations.",
+      "EduLynx ERP is built to redefine school operations. Seamlessly integrating student, staff, and administrative modules with AI-driven intelligence, it empowers institutions to operate smarter, faster, and more efficiently.",
     features: [
       "Student & staff management",
       "Attendance and exam tracking",
       "Fee portal and finance management",
       "Library and resource management",
       "AI-powered insights and reporting",
+      "AI-Powered Dashboards & Predictive Insights"
     ],
     img: smartImg,
   },
